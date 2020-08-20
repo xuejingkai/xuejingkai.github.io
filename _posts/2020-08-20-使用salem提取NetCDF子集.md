@@ -3,7 +3,7 @@ layout:     post
 title:      NetCDF中裁取特定区域
 subtitle:   salem & regionmask
 date:       2020-08-20
-author:     空月
+author:     Kongyue
 header-img: img/CVPR2018.jpg
 catalog: true
 tags:
