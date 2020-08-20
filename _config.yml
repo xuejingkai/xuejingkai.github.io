@@ -108,5 +108,11 @@ friends: [
     # },{
         title: "xue",
         href: "https://xuejingkai20.wixsite.com/website"
+    }， {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "prose",
+        href: "http://prose.io/#xuejingkai/xuejingkai.github.io/tree/master/_posts"
     }
 ]
