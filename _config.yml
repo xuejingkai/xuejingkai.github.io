@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Light
-zhihu_username:     Light
-github_username:    Light
-twitter_username:   Light
+#weibo_username:     Light
+#zhihu_username:     Light
+github_username:    xuejingkai
+#twitter_username:   Light
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
