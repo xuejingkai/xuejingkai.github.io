@@ -99,7 +99,7 @@ radar.ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.10),
 plt.show()
 ```
 
-![png](/fig/201103/polar1.jpg){:width="500px"}
+![png](/fig/201103/polar1.png){:width="500px"}
 
 
 
@@ -201,7 +201,7 @@ add_scale(ax,-0.6,0)
 
 plt.show()
 ```
-![png](/fig/201103/polar2.jpg){:width="500px"}
+![png](/fig/201103/polar2.png){:width="500px"}
 
 
 
